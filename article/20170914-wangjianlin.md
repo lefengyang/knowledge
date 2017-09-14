@@ -1,7 +1,7 @@
 
 #王健林和鲁豫饭局
 
-<iframe class="video_iframe" scrolling="no" src="http://v.qq.com/iframe/player.html?vid=s0021tcoan1&auto=0" allowfullscreen="" frameborder="0"></iframe>
+视频地址：[王健林和鲁豫饭局，说话太霸气了](http://v.qq.com/iframe/player.html?vid=s0021tcoan1&auto=0)
 
 ## 1.跨国大企业体制僵化，不信任国外本土员工，因此导致成本过高。
 	1)上海迪士尼建造成本是万达乐园的8、9倍
