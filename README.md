@@ -1,11 +1,19 @@
 
+# 野比大熊的知识管理
+
+
+本仓库主要是本人知识收集归纳整理。
+
+
 ## 编程基础
 * [数据结构和算法](wiki/algorithm.md)
 * [设计模式](wiki/design_pattern.md)
 * [IDE](wiki/ide.md)
+* [API](wiki/api.md)
 * [安全](wiki/security.md)
 * [开源](wiki/open_source.md)
 * [测试](wiki/testing.md)
+* [正则表达式](wiki/regular_expression.md)
 
 ## 编程语言
 * [PHP](wiki/php.md)
@@ -28,6 +36,7 @@
 
 ## 服务端
 * [系统架构](wiki/archieture.md)
+* [WebServer](wiki/webserver.md)
 * [高可用](wiki/high_availability.md)
 * [高并发](wiki/high_concurrency.md)
 * [分布式](wiki/distribute.md)

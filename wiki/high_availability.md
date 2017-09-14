@@ -1,15 +1,19 @@
 
-## 负载均衡
+## Loadbalancing 负载均衡
 * [负载均衡算法](wiki/xxx.md)
 * [失败重试](wiki/xxx.md)
 * [健康检查机制](wiki/xxx.md)
 * [动态负载均衡](wiki/xxx.md)
+* [HAProxy](wiki/haproxy.md)
+* [LVS](wiki/lvs.md)
 
 ## 限流
 * [限流算法](wiki/xxx.md)
 * [应用级限流](wiki/xxx.md)
 * [分布式限流](wiki/xxx.md)
 * [接入层限流](wiki/xxx.md)
+
+## 容错
 
 ## 降级
 * [降级预案](wiki/xxx.md)
@@ -45,5 +49,5 @@
 * [数据版本回滚](wiki/xxx.md)
 * [静态资源版本回滚](wiki/xxx.md)
 
-## 压测与预案
+## Benchmark 性能测试
 
