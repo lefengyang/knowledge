@@ -9,7 +9,7 @@
 * [2017](wiki/recommend_2017.md)
 
 ## 收集
-* [读书笔记](wiki/reading.md)
+* [读后感](wiki/reading.md)
 * [精选博客](wiki/blog.md)
 * [文章摘抄](wiki/copy.md)
 * [工具](wiki/tools.md)
