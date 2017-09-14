@@ -11,6 +11,17 @@
 
 ---
 
+- [medium](https://medium.com)
+- [trending](https://github.com/trending)
+- [dzone](https://dzone.com)
+- [ycombinator](https://news.ycombinator.com)
+- [reddit](https://www.reddit.com)
+- [google plus](https://plus.google.com/discover)
+- [twitter](https://twitter.com)
+- [facebook](https://www.facebook.com)
+
+---
+
 - [王下邀月熊](https://segmentfault.com/u/wxyyxc1992)
 - [阮一峰](http://www.ruanyifeng.com/blog/) - 前端大神
 - [W3Cplus](http://www.w3cplus.com) - 大漠(《图解 CSS3》作者)
