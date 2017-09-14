@@ -8,6 +8,7 @@
 
 ## 公众号
 * [王健林和鲁豫饭局](../article/20170914-wangjianlin.md)
+* [怎样优雅地跟人谈论有争议的话题](../article/20170914-how-to-discuss-dispute-topic.md)
 
 
 ## 国内书籍
