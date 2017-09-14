@@ -7,7 +7,6 @@
 - [36氪](http://36kr.com)
 - [钛媒体](http://www.tmtpost.com)
 - [虎嗅](https://www.huxiu.com)
-- [虎嗅](https://www.huxiu.com)
 - [雷锋网](https://www.leiphone.com)
 
 ---
