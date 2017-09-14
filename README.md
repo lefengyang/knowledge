@@ -5,6 +5,18 @@
 本仓库主要是本人知识收集归纳整理。
 
 
+## 每周推荐阅读
+* [2017](wiki/recommend_2017.md)
+
+## 收集
+* [读书笔记](wiki/reading.md)
+* [精选博客](wiki/blog.md)
+* [文章摘抄](wiki/copy.md)
+* [工具](wiki/tools.md)
+
+## 认知升级
+* [新知识、新概念](wiki/concept.md)
+
 ## 编程基础
 * [数据结构和算法](wiki/algorithm.md)
 * [设计模式](wiki/design_pattern.md)
@@ -15,11 +27,16 @@
 * [测试](wiki/testing.md)
 * [正则表达式](wiki/regular_expression.md)
 
+## 效率
+* [DevOps](wiki/devops.md)
+* [敏捷开发](wiki/scrum.md)
+
 ## 编程语言
 * [PHP](wiki/php.md)
 * [javascript](wiki/javascript.md)
 * [Nodejs](wiki/nodejs.md)
 * [CSS](wiki/css.md)
+* [Shell](wiki/shell.md)
 * [Python](wiki/python.md)
 * [Lua](wiki/lua.md)
 * [ES6](wiki/es6.md)
@@ -29,9 +46,10 @@
 * [开发框架](wiki/framework.md)
 
 ## web前端
+* [web前端开发框架](wiki/web_framework.md)
 * [浏览器](wiki/browser.md)
 * [html5](wiki/html5.md)
-* [UI](wiki/ui.md)
+* [UI与动画](wiki/web_ui.md)
 * [工程化](wiki/builder.md)
 
 ## 服务端
@@ -43,7 +61,7 @@
 * [数据库](wiki/database.md)
 * [中间件](wiki/middleware.md)
 * [Linux](wiki/linux.md)
-* [网络](wiki/network.md)
+* [网络协议](wiki/network.md)
 * [容器技术](wiki/container_service.md)
 * [运维](wiki/operation.md)
 
@@ -51,6 +69,9 @@
 * [IOS](wiki/ios.md)
 * [Android](wiki/android.md)
 * [混合开发](wiki/hybrid.md)
+* [微信小程序](wiki/mini-program.md)
+* [UI](wiki/app_ui.md)
+* [PC客户端](wiki/pc.md)
 
 ## 大数据
 * [方法论](wiki/data_methodology.md)
@@ -67,13 +88,7 @@
 * [项目管理](wiki/project_management.md)
 * [知识管理](wiki/knowledge_management.md)
 
-## 读书笔记
-* [国内](wiki/china_reading.md)
-* [国外](wiki/abroad_reading.md)
-
-## 外语学习
-* [英语](wiki/english.md)
-
-
+## 其他
+* [学习英语](wiki/english.md)
 
 

@@ -11,6 +11,7 @@
 ## Java
 * [spring boot](wiki/spring-boot.md)
 * [spring cloud](wiki/spring-cloud.md)
+* [springMVC](wiki/spring-mvc.md)
 * [Mybatis](wiki/mybatis.md)
 * [Dubbo](wiki/dubbo.md)
 
