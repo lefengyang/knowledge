@@ -87,6 +87,7 @@
 ## 通用技能
 * [项目管理](wiki/project_management.md)
 * [知识管理](wiki/knowledge_management.md)
+* [个人修养](wiki/personal_literate.md)
 
 ## 其他
 * [学习英语](wiki/english.md)
