@@ -3,5 +3,11 @@
 
 ## Nginx
 
+## Squid
+
+## Lighttpd
+
+## Varnish
+
 ## Caddy
 
