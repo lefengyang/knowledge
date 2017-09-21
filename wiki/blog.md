@@ -36,6 +36,8 @@
 ---
 
 - [凹凸实验室](https://aotu.io)
+- [国人的前端库](https://www.awesomes.cn)
+- [Div.io](http://div.io/)
 - [stack overflow](https://stackoverflow.com) - 专治各种疑难杂症
 - [IBM中国](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=3302cc3b-074e-44da-90b1-5055f1dc0d9c&lang=zh)
 - [InfoQ](http://www.infoq.com/cn/)
