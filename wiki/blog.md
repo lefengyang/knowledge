@@ -36,6 +36,7 @@
 
 ---
 
+- [百度FEX技术周刊](http://fex.baidu.com/weekly/)
 - [凹凸实验室](https://aotu.io)
 - [国人的前端库](https://www.awesomes.cn)
 - [Div.io](http://div.io/)
