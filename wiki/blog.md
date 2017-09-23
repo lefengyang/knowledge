@@ -36,9 +36,11 @@
 
 ---
 
+- [奇舞周刊](https://weekly.75team.com/)
 - [百度FEX技术周刊](http://fex.baidu.com/weekly/)
 - [凹凸实验室](https://aotu.io)
 - [国人的前端库](https://www.awesomes.cn)
+- [前端外刊评论](https://qianduan.group/)
 - [Div.io](http://div.io/)
 - [stack overflow](https://stackoverflow.com) - 专治各种疑难杂症
 - [IBM中国](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=3302cc3b-074e-44da-90b1-5055f1dc0d9c&lang=zh)
@@ -73,6 +75,7 @@
 
 ---
 
+- [斯达克学院](https://new.stuq.org)
 - [腾讯课堂](https://ke.qq.com)
 - [腾讯精品课](http://class.qq.com)
 - [实验楼](https://www.shiyanlou.com)
